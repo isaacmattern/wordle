@@ -7,4 +7,6 @@
 *   yellow, if the letter is in the word, but not in the position where the user guessed
 *   gray, if the word does not contain the letter at all
 
-This project is an attempt to use a list of the most 2,570 5-letter words and some Python magic to solve some Wordles.
+This project is an attempt to use a list of the 12,972 5-letter words which are valid Wordle guesses and some Python magic to solve some Wordles.
+
+I will be attempting to devise different algorithms to best solve Wordle.
